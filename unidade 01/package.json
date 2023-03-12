@@ -1,0 +1,14 @@
+{
+  "name": "testes-unitarios-jest-pos-unidade-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Felipe Blanco da Guarda",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
