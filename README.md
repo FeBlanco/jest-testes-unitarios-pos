@@ -21,7 +21,7 @@ ou
 
 	npm install --save-dev jest
 
-Para rodar os testes, após ter instalado o cypress com o comando acima, navegue para a pasta raiz do projeto e execute: 
+Para rodar os testes, após ter instalado o jest com o comando acima, navegue para a pasta raiz do projeto e execute: 
 
     npm run test
 
